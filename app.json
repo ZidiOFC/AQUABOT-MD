@@ -1,5 +1,5 @@
 {
-    "name": "Aquabot - MD",
+    "name": "*ᖇIᘔᗯᗩᑎ ᗯᗷ*",
     "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
     "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
@@ -75,7 +75,7 @@
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "*ᖇIᘔᗯᗩᑎ ᗯᗷ* ²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -85,7 +85,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 *ᖇIᘔᗯᗩᑎ ᗯᗷ* ²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -111,38 +111,38 @@
      
        "SONG_DOWN": {
             "description": "",
-            "value": "*📥Downloading your song...*" ,
-            "required": true
+            "value": "" ,
+            "required": false
       }, 
         "SONG_UP": {
             "description": "",
             "value": "*📤Uploading your song...*" ,
-            "required": true
+            "required": false
       },
           "VIDEO_DOWN": {
             "description": "",
             "value": "*📥Downloading your video...*" ,
-            "required": true
+            "required": false
       },
           "VIDEO_UP": {
             "description": "",
             "value": "*📤Uploading your video...*" ,
-            "required": true
+            "required": false
       },
           "FILE_DOWN": {
             "description": "",
             "value": "*📥Downloading your file...*" ,
-            "required": true
+            "required": false
       },
           "FILE_UP": {
             "description": "",
             "value": "*📤Uploading your file...*" ,
-            "required": true
+            "required": false
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
-            "required": true
+            "value": "ᖇIᘔᗯᗩᑎ ᗯᗷ" ,
+            "required": false
       },
           "WORK_TYPE": {
             "description": "",
@@ -152,11 +152,11 @@
          "SUDO": {
             "description": "",
             "value": "" ,
-            "required": false
+            "required": true
       },
          "LANGUAGE": {
             "description": "",
-            "value": "EN" ,
+            "value": "URDU" ,
             "required": true
       },
          "HEROKU": {
